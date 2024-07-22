@@ -1,6 +1,6 @@
 # MPG1
 Megaproject Group 1
-Group Members: Devika, Vinayak, Avadhoot, Shivraj
+Members: Devika, Vinayak, Avadhoot, Shivraj
 Title: OpenEyeAlert Safety Band
 ----------------------------------------------------
 This is our place where we'll put up our task list just so we know what is to be done.
