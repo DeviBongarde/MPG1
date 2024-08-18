@@ -6,25 +6,25 @@ Title: OpenEyeAlert Safety Band
 ## Before making any changes into the files in file explorer make sure you're in your own branch and not in main.
 Check in gitbash
 #### To change branch:
-    ```bash
+    ```
       git checkout branch-name
     ```
   example: git checkout devika 
 #### Check Status:
-      ```bash
+  
         git status
-      ```
+   
 make sure it is upto date
 if not then
 #### To get all from main and update your branch
-    ```bash
+    ```
       git checkout main
       git pull origin main
       git merge your branch-name
       git push origin main
     ```
 now that your branch is updated make sure to again checkout to your branch using
-    ```bash
+    ```
       git checkout your-branch-name
      ```
 now you can make whatever changes in your files
