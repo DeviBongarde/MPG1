@@ -3,7 +3,7 @@ Megaproject Group 1;
 Members: Devika, Vinayak, Avadhoot, Shivraj; 
 Title: OpenEyeAlert Safety Band
 ----------------------------------------------------
-## Before making any changes into the files in file explorer make sure you're in your own branch and not in main.
+### Before making any changes into the files in file explorer make sure you're in your own branch and not in main.
 Check in gitbash
 #### To change branch:
 
@@ -38,9 +38,9 @@ after the changes are done to commit:
    
 now that you have commited the changes to merge them into the main branch open a PR(Pull Request)
 #### Opening a PR
-  open github
-  in your branch you'll see a green button saying contribute
-  create pull request
-  ask another group member to approve and merge the pull request.
-There you go!! Your block of work is now added to the main.
-Whenever a new PR is approved make sure the othr group members update thier branch by using the update your branch commands above.
+-open github
+-in your branch you'll see a green button saying contribute
+-create pull request
+-ask another group member to approve and merge the pull request.
+-There you go!! Your block of work is now added to the main.
+-Whenever a new PR is approved make sure the othr group members update thier branch by using the update your branch commands above.
