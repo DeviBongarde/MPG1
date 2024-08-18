@@ -12,7 +12,7 @@ Check in gitbash
   example: git checkout devika 
 #### Check Status:
   
-        git status
+      git status
    
 make sure it is upto date
 if not then
